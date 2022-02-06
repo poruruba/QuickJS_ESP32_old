@@ -1,0 +1,12 @@
+{
+	"modules": [
+		{
+			"name": "SHT30",
+			"url": "http://【WebサーバのURL】/quickjs_public/SHT30.js"
+		},
+		{
+			"name": "BMP280",
+			"url": "http://【WebサーバのURL】/quickjs_public/BMP280.js"
+		}
+	]
+}
